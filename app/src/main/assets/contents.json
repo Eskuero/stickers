@@ -4,113 +4,409 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "Boku no Hero 1",
+      "publisher": "Eskuero",
+      "tray_image_file": "momo.png",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
-          "emojis": ["☕","🙂"]
+          "image_file": "file_1468222.webp"
         },
         {
-          "image_file": "02_Cuppy_lol.webp",
-          "emojis": ["😄","😀"]
+          "image_file": "file_1468224.webp"
         },
         {
-          "image_file": "03_Cuppy_rofl.webp",
-          "emojis": ["😆","😂"]
+          "image_file": "file_1468225.webp"
         },
         {
-          "image_file": "04_Cuppy_sad.webp",
-          "emojis": ["😩","😰"]
+          "image_file": "file_1468226.webp"
         },
         {
-          "image_file": "05_Cuppy_cry.webp",
-          "emojis": ["😭","💧"]
+          "image_file": "file_1468228.webp"
         },
         {
-          "image_file": "06_Cuppy_love.webp",
-          "emojis": ["😍","♥"]
+          "image_file": "file_1468229.webp"
         },
         {
-          "image_file": "07_Cuppy_hate.webp",
-          "emojis": ["💔","👎"]
+          "image_file": "file_1468230.webp"
         },
         {
-          "image_file": "08_Cuppy_lovewithmug.webp",
-          "emojis": ["😍","💑"]
+          "image_file": "file_1468231.webp"
         },
         {
-          "image_file": "09_Cuppy_lovewithcookie.webp",
-          "emojis": ["😘","🍪"]
+          "image_file": "file_1468232.webp"
         },
         {
-          "image_file": "10_Cuppy_hmm.webp",
-          "emojis": ["🤔","😐"]
+          "image_file": "file_1468233.webp"
         },
         {
-          "image_file": "11_Cuppy_upset.webp",
-          "emojis": ["😱","😵"]
+          "image_file": "file_1468234.webp"
         },
         {
-          "image_file": "12_Cuppy_angry.webp",
-          "emojis": ["😡","😠"]
+          "image_file": "file_1468235.webp"
         },
         {
-          "image_file": "13_Cuppy_curious.webp",
-          "emojis": ["❓","🤔"]
+          "image_file": "file_1468236.webp"
         },
         {
-          "image_file": "14_Cuppy_weird.webp",
-          "emojis": ["🌈","😜"]
+          "image_file": "file_1468237.webp"
         },
         {
-          "image_file": "15_Cuppy_bluescreen.webp",
-          "emojis": ["💻","😩"]
+          "image_file": "file_1468238.webp"
         },
         {
-          "image_file": "16_Cuppy_angry.webp",
-          "emojis": ["😡","😤"]
+          "image_file": "file_1468239.webp"
         },
         {
-          "image_file": "17_Cuppy_tired.webp",
-          "emojis": ["😩","😨"]
+          "image_file": "file_1468240.webp"
         },
         {
-          "image_file": "18_Cuppy_workhard.webp",
-          "emojis": ["💻","🌃"]
+          "image_file": "file_1468241.webp"
         },
         {
-          "image_file": "19_Cuppy_shine.webp",
-          "emojis": ["🎉","✨"]
+          "image_file": "file_1468242.webp"
         },
         {
-          "image_file": "20_Cuppy_disgusting.webp",
-          "emojis": ["🤮","👎"]
+          "image_file": "file_1468243.webp"
         },
         {
-          "image_file": "21_Cuppy_hi.webp",
-          "emojis": ["🖐","🙋"]
+          "image_file": "file_1468244.webp"
         },
         {
-          "image_file": "22_Cuppy_bye.webp",
-          "emojis": ["🖐","👋"]
+          "image_file": "file_1468245.webp"
         },
         {
-          "image_file": "23_Cuppy_greentea.webp",
-          "emojis": ["🍵","😌"]
+          "image_file": "file_1468246.webp"
         },
         {
-          "image_file": "24_Cuppy_phone.webp",
-          "emojis": ["📱","😦"]
+          "image_file": "file_1468247.webp"
         },
         {
-          "image_file": "25_Cuppy_battery.webp",
-          "emojis": ["🔋","😵"]
+          "image_file": "file_1468248.webp"
+        },
+        {
+          "image_file": "file_1468249.webp"
+        },
+        {
+          "image_file": "file_1468250.webp"
+        },
+        {
+          "image_file": "file_1468251.webp"
+        },
+        {
+          "image_file": "file_1468252.webp"
+        },
+        {
+          "image_file": "file_1468253.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Boku no Hero 2",
+      "publisher": "Eskuero",
+      "tray_image_file": "deku.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1468093.webp"
+        },
+        {
+          "image_file": "file_1468095.webp"
+        },
+        {
+          "image_file": "file_1468097.webp"
+        },
+        {
+          "image_file": "file_1468099.webp"
+        },
+        {
+          "image_file": "file_1468101.webp"
+        },
+        {
+          "image_file": "file_1468102.webp"
+        },
+        {
+          "image_file": "file_1468104.webp"
+        },
+        {
+          "image_file": "file_1468105.webp"
+        },
+        {
+          "image_file": "file_1468107.webp"
+        },
+        {
+          "image_file": "file_1468108.webp"
+        },
+        {
+          "image_file": "file_1468109.webp"
+        },
+        {
+          "image_file": "file_1468111.webp"
+        },
+        {
+          "image_file": "file_1468112.webp"
+        },
+        {
+          "image_file": "file_1468113.webp"
+        },
+        {
+          "image_file": "file_1468114.webp"
+        },
+        {
+          "image_file": "file_1468116.webp"
+        },
+        {
+          "image_file": "file_1468117.webp"
+        },
+        {
+          "image_file": "file_1468118.webp"
+        },
+        {
+          "image_file": "file_1468120.webp"
+        },
+        {
+          "image_file": "file_1468121.webp"
+        },
+        {
+          "image_file": "file_1468122.webp"
+        },
+        {
+          "image_file": "file_1468123.webp"
+        },
+        {
+          "image_file": "file_1468125.webp"
+        },
+        {
+          "image_file": "file_1468126.webp"
+        },
+        {
+          "image_file": "file_1468127.webp"
+        },
+        {
+          "image_file": "file_1468129.webp"
+        },
+        {
+          "image_file": "file_1468130.webp"
+        },
+        {
+          "image_file": "file_1468131.webp"
+        },
+        {
+          "image_file": "file_1468132.webp"
+        },
+        {
+          "image_file": "file_1468133.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Boku no Hero 3",
+      "publisher": "Eskuero",
+      "tray_image_file": "uraraka.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_1468135.webp"
+        },
+        {
+          "image_file": "file_1468136.webp"
+        },
+        {
+          "image_file": "file_1468137.webp"
+        },
+        {
+          "image_file": "file_1468139.webp"
+        },
+        {
+          "image_file": "file_1468140.webp"
+        },
+        {
+          "image_file": "file_1468142.webp"
+        },
+        {
+          "image_file": "file_1468143.webp"
+        },
+        {
+          "image_file": "file_1468144.webp"
+        },
+        {
+          "image_file": "file_1468146.webp"
+        },
+        {
+          "image_file": "file_1468147.webp"
+        },
+        {
+          "image_file": "file_1468148.webp"
+        },
+        {
+          "image_file": "file_1468149.webp"
+        },
+        {
+          "image_file": "file_1468151.webp"
+        },
+        {
+          "image_file": "file_1468152.webp"
+        },
+        {
+          "image_file": "file_1468154.webp"
+        },
+        {
+          "image_file": "file_1468155.webp"
+        },
+        {
+          "image_file": "file_1468158.webp"
+        },
+        {
+          "image_file": "file_1468159.webp"
+        },
+        {
+          "image_file": "file_1468160.webp"
+        },
+        {
+          "image_file": "file_1468162.webp"
+        },
+        {
+          "image_file": "file_1468164.webp"
+        },
+        {
+          "image_file": "file_1468165.webp"
+        },
+        {
+          "image_file": "file_1468166.webp"
+        },
+        {
+          "image_file": "file_1468167.webp"
+        },
+        {
+          "image_file": "file_1468169.webp"
+        },
+        {
+          "image_file": "file_1468170.webp"
+        },
+        {
+          "image_file": "file_1468172.webp"
+        },
+        {
+          "image_file": "file_1468173.webp"
+        },
+        {
+          "image_file": "file_1468175.webp"
+        },
+        {
+          "image_file": "file_1468177.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Boku no Hero 4",
+      "publisher": "Eskuero",
+      "tray_image_file": "tenya.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+               {
+          "image_file": "file_1468178.webp"
+        },
+        {
+          "image_file": "file_1468180.webp"
+        },
+        {
+          "image_file": "file_1468182.webp"
+        },
+        {
+          "image_file": "file_1468183.webp"
+        },
+        {
+          "image_file": "file_1468184.webp"
+        },
+        {
+          "image_file": "file_1468186.webp"
+        },
+        {
+          "image_file": "file_1468188.webp"
+        },
+        {
+          "image_file": "file_1468189.webp"
+        },
+        {
+          "image_file": "file_1468191.webp"
+        },
+        {
+          "image_file": "file_1468192.webp"
+        },
+        {
+          "image_file": "file_1468194.webp"
+        },
+        {
+          "image_file": "file_1468195.webp"
+        },
+        {
+          "image_file": "file_1468196.webp"
+        },
+        {
+          "image_file": "file_1468197.webp"
+        },
+        {
+          "image_file": "file_1468199.webp"
+        },
+        {
+          "image_file": "file_1468200.webp"
+        },
+        {
+          "image_file": "file_1468202.webp"
+        },
+        {
+          "image_file": "file_1468203.webp"
+        },
+        {
+          "image_file": "file_1468205.webp"
+        },
+        {
+          "image_file": "file_1468207.webp"
+        },
+        {
+          "image_file": "file_1468209.webp"
+        },
+        {
+          "image_file": "file_1468210.webp"
+        },
+        {
+          "image_file": "file_1468212.webp"
+        },
+        {
+          "image_file": "file_1468213.webp"
+        },
+        {
+          "image_file": "file_1468215.webp"
+        },
+        {
+          "image_file": "file_1468216.webp"
+        },
+        {
+          "image_file": "file_1468217.webp"
+        },
+        {
+          "image_file": "file_1468219.webp"
+        },
+        {
+          "image_file": "file_1468220.webp"
+        },
+        {
+          "image_file": "file_1468221.webp"
         }
       ]
     }
